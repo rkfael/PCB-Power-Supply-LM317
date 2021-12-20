@@ -9,23 +9,25 @@ I made this PCB using the *EasyEDA* software and then ordered it online at [*JLC
 
 You can order the fabrication according to your preferences of color, thickness, PCB material and more.
 
-Download Prodution File: [Gerber](XXXXXXXXXX)
+Download Prodution File: [Gerber](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/Gerber_Fonte%20de%20Alimenta%C3%A7%C3%A3o%20-%20LM317%20-%20V2.zip)
 
 Editable project access: [*EasyEDA*](XXXXXXXXXX)
 
 **Figure 1 - Top Side (EasyEDA)**
 
-![showcase](XXXXXXXXXX)
+![showcase](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/rootimages/Fonte%20de%20Alimenta%C3%A7%C3%A3o%20-%20LM317%20-%20TOP%20SIDE.png)
 
 **Figure 2 - Bottom Side (EasyEDA)**
 
-![showcase](XXXXXXXXXX)
+![showcase](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/rootimages/Fonte%20de%20Alimenta%C3%A7%C3%A3o%20-%20LM317%20-%20BOTTOM%20SIDE.png)
 
 **Some Pictures:**
 
-![showcase](XXXXXXXXXX)
+![showcase](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/rootimages/Picture%201.jpg)
 
-![showcase](XXXXXXXXXX)
+![showcase](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/rootimages/Picture%202.jpg)
+
+![showcase](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/rootimages/Picture%203.jpg)
 
 ## More about it:
 
