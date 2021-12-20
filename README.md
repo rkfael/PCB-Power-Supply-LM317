@@ -11,6 +11,8 @@ You can order the fabrication according to your preferences of color, thickness,
 
 Download Prodution File: [Gerber](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/Gerber_Fonte%20de%20Alimenta%C3%A7%C3%A3o%20-%20LM317%20-%20V2.zip)
 
+Download Schematic: [PDF](xxxxxxxx)
+
 Editable project access: [*EasyEDA*](XXXXXXXXXX)
 
 **Figure 1 - Top Side (EasyEDA)**
