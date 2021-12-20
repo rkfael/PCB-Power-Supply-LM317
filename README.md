@@ -13,6 +13,8 @@ Download Prodution File: [Gerber](https://github.com/rkfael/PCB-Power-Supply-LM3
 
 Download Schematic: [PDF](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/Fonte%20de%20Alimenta%C3%A7%C3%A3o%20-%20LM317.pdf)
 
+Download LM317_DATASHEET: [PDF](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/LM317_Datasheet.pdf)
+
 Editable project access: [*EasyEDA*](XXXXXXXXXX)
 
 **Figure 1 - Top Side (EasyEDA)**
