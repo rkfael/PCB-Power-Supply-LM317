@@ -5,7 +5,7 @@
 
 Adjustable Power Supply using LM317 voltage regulator.
 
-I made this PCB using the *EasyEDA* software and then ordered it online at [*JLCPCB*](https://jlcpcb.com/IRG)
+I made this PCB using the *EasyEDA* software and then ordered it online at [*JLCPCB*](https://jlcpcb.com/?from=RMW)
 
 You can order the fabrication according to your preferences of color, thickness, PCB material and more.
 
@@ -35,7 +35,7 @@ Editable project access: [*EasyEDA*](https://easyeda.com/rkfael/fonte-de-aliment
 
 ## More about it:
 
-For more pictures and PCB Art ideas check my Instagram profile [RKfael - PCB Design](https://www.instagram.com/rkfael_pcb_design/)
+For more pictures and PCB Art ideas check my Instagram profile [@rkfaelpcb](https://instagram.com/rkfaelpcb)
 
 ## YouTube channel:
 
