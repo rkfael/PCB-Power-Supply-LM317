@@ -15,7 +15,7 @@ Download Schematic: [PDF](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/
 
 Download LM317_Datasheet: [PDF](https://github.com/rkfael/PCB-Power-Supply-LM317/blob/main/LM317_Datasheet.pdf)
 
-Editable project access: [*EasyEDA*](https://easyeda.com/rkfael/fonte-de-alimenta-o-lm317-v2)
+Editable project access: [*EasyEDA*](https://oshwlab.com/rkfael/fonte-de-alimenta-o-lm317-v2)
 
 **Figure 1 - Top Side (EasyEDA)**
 
